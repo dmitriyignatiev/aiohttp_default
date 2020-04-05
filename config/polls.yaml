@@ -1,0 +1,10 @@
+postgres: 
+  database: polls
+  user: super_polls
+  password: super_polls
+  host: localhost
+  port: 6434
+  minsize: 1
+  maxsize: 5
+
+
